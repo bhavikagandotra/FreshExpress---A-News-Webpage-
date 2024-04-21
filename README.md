@@ -4,3 +4,4 @@
 Fresh Express is a News Website. This website shows news with the help of API. On Searchbar we can write the topic about which we want to read news.
 Initially, When We Will open this website it will show news related to Delhi.
 This website is built with the help of HTML, CSS, JavaScript.
+This website is responsive.
